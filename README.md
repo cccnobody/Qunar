@@ -20,19 +20,24 @@ npm run dev
 # 预览
 
 由于没有部署到服务器，如果想要在自己手机运行的话，可以将电脑和手机处于同一局域网环境，在package.json文件中的script对象的dev属性添加 –host 0.0.0.0，Windows用户在cmd命令输入ipconfig，找出本地IP地址，然后替代前缀的localhost，重启项目之后，手机即可输入地址即可访问了。(下面的图片是在我手机上运行的)
+
 ![image](https://qunar-leslie.oss-cn-beijing.aliyuncs.com/phone.jpg)
 
 ## 首页
+
 ![image](https://qunar-leslie.oss-cn-beijing.aliyuncs.com/first_banner.png)
 ![image](https://qunar-leslie.oss-cn-beijing.aliyuncs.com/first_list.png)
 
 ## 城市切换页面
+
 ![image](https://qunar-leslie.oss-cn-beijing.aliyuncs.com/city.png)
 
 ## 详情页面
+
 ![image](https://qunar-leslie.oss-cn-beijing.aliyuncs.com/detail.png)
 
 ## 详情轮播页面
+
 ![image](https://qunar-leslie.oss-cn-beijing.aliyuncs.com/detail_banner.png)
 
 # 开发目的
@@ -122,4 +127,4 @@ user-scalable:是否可对页面进行缩放，no 禁止缩放
 
 确实要养成一个看官方文档的好习惯，能够快速入门一项技术或工具，包括以上谈到的插件，官网也有很仔细的配置文档，这确实也是一个提高技术的重要手段，敲黑板敲黑板！
 
-最后要感谢慕课网，DellLee老师的视频教程，确实学会挺多的。![传送门](https://coding.imooc.com/class/evaluation/203.html#Anchor)
+最后要感谢慕课网，DellLee老师的视频教程，确实学会挺多的。[传送门](https://coding.imooc.com/class/evaluation/203.html#Anchor)
