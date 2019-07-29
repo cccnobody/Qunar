@@ -22,8 +22,7 @@ export default {
     components:{
         detailBanner,
         detailHeader,
-        List,
-        check
+        List
     },
     data(){
         return{
